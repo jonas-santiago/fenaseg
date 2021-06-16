@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T14:47:29.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="mX48PXtX8Ve3-tFpUydV" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T14:47:53.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="SUybEQzV_KObV6Za9_zf" version="14.7.7" type="github">
   <diagram id="wPHxuI9zvd8CLwVnyd4w" name="Page-1">
     <mxGraphModel dx="1070" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
             <mxPoint x="190" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IhjczCQ1PcFN0ZPHhStJ-3" value="Usuários" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;" vertex="1" parent="1">
+        <mxCell id="IhjczCQ1PcFN0ZPHhStJ-3" value="Usuários" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;fillColor=#2072B8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="140" y="60" width="46" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IhjczCQ1PcFN0ZPHhStJ-4" value="Repositório&lt;br&gt;de Arquivos" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.file_server;fontStyle=1" vertex="1" parent="1">
